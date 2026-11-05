@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /estilo
+
+Sitemap: https://torradastudio.com/sitemap-index.xml
